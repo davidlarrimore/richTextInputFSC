@@ -4,8 +4,9 @@
             "path": "force-app",
             "default": true,
             "package": "richTextAreaFSC",
+            "versionDescription": "Finally Version 2!!!!",
             "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT"
+            "versionNumber": "0.2.0.NEXT"
         }
     ],
     "namespace": "",
