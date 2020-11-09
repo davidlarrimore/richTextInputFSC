@@ -2,7 +2,6 @@
 
 https://unofficialsf.com/rich-text-input-flow-screen-component/
 
-
 # inputRichTextFSC
 Rich Text enhancements for Flows
 
